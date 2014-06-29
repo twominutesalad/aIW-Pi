@@ -1,0 +1,20 @@
+C:\Users\Duncan\Google Drive\Projects\Emulators\Compressed\AlterIWNetSourceCode_[www.unknowncheats.me]_\alterIWnet\iwnetserver\iwnet\IWNetServer\bin\Debug\IWNetServer.exe.config
+C:\Users\Duncan\Google Drive\Projects\Emulators\Compressed\AlterIWNetSourceCode_[www.unknowncheats.me]_\alterIWnet\iwnetserver\iwnet\IWNetServer\bin\Debug\IWNetServer.exe
+C:\Users\Duncan\Google Drive\Projects\Emulators\Compressed\AlterIWNetSourceCode_[www.unknowncheats.me]_\alterIWnet\iwnetserver\iwnet\IWNetServer\bin\Debug\IWNetServer.pdb
+C:\Users\Duncan\Google Drive\Projects\Emulators\Compressed\AlterIWNetSourceCode_[www.unknowncheats.me]_\alterIWnet\iwnetserver\iwnet\IWNetServer\bin\Debug\Coroutine.dll
+C:\Users\Duncan\Google Drive\Projects\Emulators\Compressed\AlterIWNetSourceCode_[www.unknowncheats.me]_\alterIWnet\iwnetserver\iwnet\IWNetServer\bin\Debug\Coroutine.pdb
+C:\Users\Duncan\Google Drive\Projects\Emulators\Compressed\AlterIWNetSourceCode_[www.unknowncheats.me]_\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.csprojResolveAssemblyReference.cache
+C:\Users\Duncan\Google Drive\Projects\Emulators\Compressed\AlterIWNetSourceCode_[www.unknowncheats.me]_\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.Properties.Resources.resources
+C:\Users\Duncan\Google Drive\Projects\Emulators\Compressed\AlterIWNetSourceCode_[www.unknowncheats.me]_\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.csproj.GenerateResource.Cache
+C:\Users\Duncan\Google Drive\Projects\Emulators\Compressed\AlterIWNetSourceCode_[www.unknowncheats.me]_\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.exe
+C:\Users\Duncan\Google Drive\Projects\Emulators\Compressed\AlterIWNetSourceCode_[www.unknowncheats.me]_\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.pdb
+C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\bin\Debug\IWNetServer.exe.config
+C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.exe
+C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.pdb
+C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\bin\Debug\IWNetServer.exe
+C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\bin\Debug\IWNetServer.pdb
+C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\bin\Debug\Coroutine.dll
+C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\bin\Debug\Coroutine.pdb
+C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.csprojResolveAssemblyReference.cache
+C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.Properties.Resources.resources
+C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.csproj.GenerateResource.Cache

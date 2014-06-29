@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/IWNet/Matchmaking
+END
+MatchRegisterHostingHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/IWNet/Matchmaking/MatchRegisterHostingHandler.cs
+END
+MatchUnregisterHostingHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/IWNet/Matchmaking/MatchUnregisterHostingHandler.cs
+END
+MatchRequestHostingHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/IWNet/Matchmaking/MatchRequestHostingHandler.cs
+END
+MatchRequestListHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/IWNet/Matchmaking/MatchRequestListHandler.cs
+END
+MatchUpdateClientsHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/IWNet/Matchmaking/MatchUpdateClientsHandler.cs
+END
+MatchDummyHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/IWNet/Matchmaking/MatchDummyHandler.cs
+END

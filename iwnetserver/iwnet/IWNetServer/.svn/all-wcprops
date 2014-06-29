@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alteriwnet/!svn/ver/79/iwnetserver/iwnet/IWNetServer
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alteriwnet/!svn/ver/65/iwnetserver/iwnet/IWNetServer/app.config
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alteriwnet/!svn/ver/76/iwnetserver/iwnet/IWNetServer/Program.cs
+END
+IWNetServer.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alteriwnet/!svn/ver/65/iwnetserver/iwnet/IWNetServer/IWNetServer.csproj
+END

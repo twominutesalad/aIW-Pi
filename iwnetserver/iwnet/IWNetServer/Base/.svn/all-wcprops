@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alteriwnet/!svn/ver/79/iwnetserver/iwnet/IWNetServer/Base
+END
+HttpHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alteriwnet/!svn/ver/67/iwnetserver/iwnet/IWNetServer/Base/HttpHandler.cs
+END
+Client.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alteriwnet/!svn/ver/21/iwnetserver/iwnet/IWNetServer/Base/Client.cs
+END
+Extensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/Base/Extensions.cs
+END
+UdpServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/65/iwnetserver/iwnet/IWNetServer/Base/UdpServer.cs
+END
+UdpPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/Base/UdpPacket.cs
+END
+Log.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/79/iwnetserver/iwnet/IWNetServer/Base/Log.cs
+END
+GeoIPCountry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/Base/GeoIPCountry.cs
+END
+UdpResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/Base/UdpResponse.cs
+END

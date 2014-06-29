@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alteriwnet/!svn/ver/65/iwnetserver/iwnet/IWNetServer/Kayak/lib
+END
+libevent_core.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alteriwnet/!svn/ver/65/iwnetserver/iwnet/IWNetServer/Kayak/lib/libevent_core.a
+END
+Coroutine.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/65/iwnetserver/iwnet/IWNetServer/Kayak/lib/Coroutine.dll
+END
+libevent_core.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/65/iwnetserver/iwnet/IWNetServer/Kayak/lib/libevent_core.dylib
+END
+libevent_core.3.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alteriwnet/!svn/ver/65/iwnetserver/iwnet/IWNetServer/Kayak/lib/libevent_core.3.dylib
+END
+Coroutine.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/65/iwnetserver/iwnet/IWNetServer/Kayak/lib/Coroutine.pdb
+END

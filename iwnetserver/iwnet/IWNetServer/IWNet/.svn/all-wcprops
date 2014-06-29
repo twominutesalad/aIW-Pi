@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/65/iwnetserver/iwnet/IWNetServer/IWNet
+END
+IPServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/64/iwnetserver/iwnet/IWNetServer/IWNet/IPServer.cs
+END
+CIServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/65/iwnetserver/iwnet/IWNetServer/IWNet/CIServer.cs
+END
+MatchServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/IWNet/MatchServer.cs
+END
+ServerParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/IWNet/ServerParser.cs
+END
+LogServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/6/iwnetserver/iwnet/IWNetServer/IWNet/LogServer.cs
+END
