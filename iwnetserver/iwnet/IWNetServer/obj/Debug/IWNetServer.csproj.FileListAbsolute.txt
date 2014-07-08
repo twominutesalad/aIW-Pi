@@ -18,3 +18,6 @@ C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\bin\Debug\Corou
 C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.csprojResolveAssemblyReference.cache
 C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.Properties.Resources.resources
 C:\Users\Duncan\Desktop\alterIWnet\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.csproj.GenerateResource.Cache
+C:\Users\Duncan\Desktop\aIW-Pi\iwnetserver\iwnet\IWNetServer\bin\Debug\IWNetServer.exe.config
+C:\Users\Duncan\Desktop\aIW-Pi\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.exe
+C:\Users\Duncan\Desktop\aIW-Pi\iwnetserver\iwnet\IWNetServer\obj\Debug\IWNetServer.pdb
