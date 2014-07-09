@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/json
+END
+json.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/json/json.h
+END
+value.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/json/value.h
+END
+writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/json/writer.h
+END
+features.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/json/features.h
+END
+reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/json/reader.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/json/config.h
+END
+autolink.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/json/autolink.h
+END
+forwards.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/json/forwards.h
+END

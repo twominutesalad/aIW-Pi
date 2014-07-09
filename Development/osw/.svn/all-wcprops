@@ -1,0 +1,1121 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw
+END
+IClientDepotBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientDepotBuilder.h
+END
+ISteamApps004.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamApps004.h
+END
+ISteam2Bridge002.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteam2Bridge002.h
+END
+ISteamUser005.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUser005.h
+END
+ISteam004.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteam004.h
+END
+MatchmakingServersCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/MatchmakingServersCommon.h
+END
+ISteamMatchmaking001.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamMatchmaking001.h
+END
+ISteamClient007.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamClient007.h
+END
+IClientUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientUtils.h
+END
+TSteamDiscountQualifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamDiscountQualifier.h
+END
+ISteamUser009.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUser009.h
+END
+ISteamMatchmaking005.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamMatchmaking005.h
+END
+GameServerItemsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/GameServerItemsCommon.h
+END
+TSteamSubscriptionDiscount.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamSubscriptionDiscount.h
+END
+EPersonalQuestion.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/EPersonalQuestion.h
+END
+MasterServerUpdaterCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/MasterServerUpdaterCommon.h
+END
+IClientAppManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientAppManager.h
+END
+ISteamGameServer002.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServer002.h
+END
+ISteamUtils003.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUtils003.h
+END
+ISteamGameServer006.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServer006.h
+END
+RemoteStorageCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/RemoteStorageCommon.h
+END
+IClientConfigStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientConfigStore.h
+END
+ISteamMasterServerUpdater001.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamMasterServerUpdater001.h
+END
+IClientMatchmaking.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientMatchmaking.h
+END
+Open Steamworks.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/Open%20Steamworks.vcproj
+END
+IClientNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientNetworking.h
+END
+Steamworks.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/Steamworks.h
+END
+ISteamGameCoordinator001.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameCoordinator001.h
+END
+ISteamUser010.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUser010.h
+END
+SteamclientAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/SteamclientAPI.h
+END
+ISteamBilling002.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamBilling002.h
+END
+BridgeCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/BridgeCommon.h
+END
+ISteamUser014.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUser014.h
+END
+ISteamUserItems004.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUserItems004.h
+END
+Steamclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/Steamclient.h
+END
+Steam.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/Steam.h
+END
+UtilsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/UtilsCommon.h
+END
+ISteamNetworking001.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamNetworking001.h
+END
+CSteamAPIContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/CSteamAPIContext.h
+END
+TSteamUpdateStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamUpdateStats.h
+END
+ISteamFriends003.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamFriends003.h
+END
+TSteamAppLaunchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamAppLaunchOption.h
+END
+ISteamFriends007.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamFriends007.h
+END
+ISteamUserStats004.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUserStats004.h
+END
+ISteamApps001.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamApps001.h
+END
+UserCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/UserCommon.h
+END
+ISteamGameServerItems004.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServerItems004.h
+END
+CSteamID.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/CSteamID.h
+END
+TSteamGlobalUserID.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamGlobalUserID.h
+END
+IClientGameStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientGameStats.h
+END
+TSteamSubscription.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamSubscription.h
+END
+FriendsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/FriendsCommon.h
+END
+TSteamAppVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamAppVersion.h
+END
+ISteamUser006.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUser006.h
+END
+ISteam005.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteam005.h
+END
+ISteamMatchmaking002.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamMatchmaking002.h
+END
+ISteamClient008.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamClient008.h
+END
+TSteamAppDependencyInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamAppDependencyInfo.h
+END
+ContentServerCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ContentServerCommon.h
+END
+ISteamMatchmaking006.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamMatchmaking006.h
+END
+ISteamGameStats001.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameStats001.h
+END
+AppsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/AppsCommon.h
+END
+ENotificationPosition.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ENotificationPosition.h
+END
+TSteamProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamProgress.h
+END
+ISteamContentServer001.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamContentServer001.h
+END
+ISteamGameServer003.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServer003.h
+END
+ISteamUtils004.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUtils004.h
+END
+ESteamError.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ESteamError.h
+END
+ISteamGameServer007.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServer007.h
+END
+AppTicketCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/AppTicketCommon.h
+END
+GameStatsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/GameStatsCommon.h
+END
+TSteamPaymentCardInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamPaymentCardInfo.h
+END
+ISteamUser011.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUser011.h
+END
+ISteamUserItems001.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUserItems001.h
+END
+TSteamOfflineStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamOfflineStatus.h
+END
+UserStatsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/UserStatsCommon.h
+END
+ESteamServerType.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ESteamServerType.h
+END
+IClientGameServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientGameServer.h
+END
+ESteamBufferMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ESteamBufferMethod.h
+END
+IClientContentServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientContentServer.h
+END
+ISteamNetworking002.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamNetworking002.h
+END
+TSteamElemInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamElemInfo.h
+END
+FriendGameInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/FriendGameInfo.h
+END
+TSteamExternalBillingInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamExternalBillingInfo.h
+END
+ISteamUserStats001.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUserStats001.h
+END
+ISteamMatchmakingServers001.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamMatchmakingServers001.h
+END
+ISteamFriends004.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamFriends004.h
+END
+EResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/EResult.h
+END
+ISteamFriends008.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamFriends008.h
+END
+ISteamUserStats005.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUserStats005.h
+END
+ISteamApps002.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamApps002.h
+END
+CGameID.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/CGameID.h
+END
+UserItemsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/UserItemsCommon.h
+END
+string_t.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/string_t.h
+END
+MatchmakingCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/MatchmakingCommon.h
+END
+NetworkingCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/NetworkingCommon.h
+END
+ISteamGameServerStats001.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServerStats001.h
+END
+SteamAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/SteamAPI.h
+END
+ISteamRemoteStorage001.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamRemoteStorage001.h
+END
+IClientUserStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientUserStats.h
+END
+ESteamNotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ESteamNotify.h
+END
+ISteamUser007.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUser007.h
+END
+ISteam006.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteam006.h
+END
+ISteamMatchmaking003.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamMatchmaking003.h
+END
+GameServerCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/GameServerCommon.h
+END
+ISteamClient009.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamClient009.h
+END
+ISteamMatchmaking007.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamMatchmaking007.h
+END
+IClientEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientEngine.h
+END
+ISteamUtils001.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUtils001.h
+END
+ESteamFindFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ESteamFindFilter.h
+END
+ISteamContentServer002.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamContentServer002.h
+END
+IClientUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientUser.h
+END
+ISteamGameServer004.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServer004.h
+END
+IClientBilling.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientBilling.h
+END
+ISteamUtils005.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUtils005.h
+END
+ESteamAppUpdateStatsQueryType.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ESteamAppUpdateStatsQueryType.h
+END
+ISteamGameServer008.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServer008.h
+END
+SteamSalt.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/SteamSalt.h
+END
+IClientFriends.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientFriends.h
+END
+ISteamUser012.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUser012.h
+END
+servernetadr.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/servernetadr.h
+END
+ISteamUserItems002.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUserItems002.h
+END
+EUniverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/EUniverse.h
+END
+ISteamNetworking003.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamNetworking003.h
+END
+TSteamPaymentCardReceiptInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamPaymentCardReceiptInfo.h
+END
+ISteamFriends001.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamFriends001.h
+END
+ELobbyType.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ELobbyType.h
+END
+TSteamSubscriptionBillingInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamSubscriptionBillingInfo.h
+END
+TSteamSubscriptionStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamSubscriptionStats.h
+END
+ISteamMatchmakingServers002.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamMatchmakingServers002.h
+END
+ISteamFriends005.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamFriends005.h
+END
+ISteamUserStats002.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUserStats002.h
+END
+ISteamUserStats006.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUserStats006.h
+END
+ISteamGameServerItems002.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServerItems002.h
+END
+ESteamSeekMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ESteamSeekMethod.h
+END
+IClientHTTP.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientHTTP.h
+END
+POSIXLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/POSIXLibrary.h
+END
+BillingCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/BillingCommon.h
+END
+ISteamApps003.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamApps003.h
+END
+SteamTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/SteamTypes.h
+END
+ESteamSubscriptionBillingInfoType.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ESteamSubscriptionBillingInfoType.h
+END
+ISteam2Bridge001.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteam2Bridge001.h
+END
+ISteamUser004.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUser004.h
+END
+ISteamRemoteStorage002.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamRemoteStorage002.h
+END
+ISteam003.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteam003.h
+END
+ISteamClient006.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamClient006.h
+END
+ESteamPaymentCardType.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ESteamPaymentCardType.h
+END
+ISteamAppTicket001.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamAppTicket001.h
+END
+ISteamUser008.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUser008.h
+END
+ISteamMatchmaking004.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamMatchmaking004.h
+END
+TSteamPrepurchaseInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamPrepurchaseInfo.h
+END
+TSteamAppStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamAppStats.h
+END
+ISteamMatchmaking008.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamMatchmaking008.h
+END
+EChatMemberStateChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/EChatMemberStateChange.h
+END
+ISteamUtils002.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUtils002.h
+END
+GameCoordinatorCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/GameCoordinatorCommon.h
+END
+TSteamPrepurchaseReceiptInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamPrepurchaseReceiptInfo.h
+END
+ISteamGameServer005.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServer005.h
+END
+ISteamGameServer009.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServer009.h
+END
+TSteamApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamApp.h
+END
+CCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/CCallback.h
+END
+TSteamSplitLocalUserID.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamSplitLocalUserID.h
+END
+EAccountType.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/EAccountType.h
+END
+ISteamBilling001.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamBilling001.h
+END
+ISteamUser013.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUser013.h
+END
+MatchMakingKeyValuePair.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/MatchMakingKeyValuePair.h
+END
+ISteamUserItems003.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUserItems003.h
+END
+TSteamError.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamError.h
+END
+IClientApps.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientApps.h
+END
+ISteamNetworking004.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamNetworking004.h
+END
+TSteamSubscriptionReceipt.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/TSteamSubscriptionReceipt.h
+END
+ISteamFriends002.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamFriends002.h
+END
+gameserveritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/gameserveritem.h
+END
+EServerMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/EServerMode.h
+END
+ISteamFriends006.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamFriends006.h
+END
+ISteamUserStats003.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUserStats003.h
+END
+ISteamGameServer010.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServer010.h
+END
+IClientGameCoordinator.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientGameCoordinator.h
+END
+ESteamSubscriptionStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ESteamSubscriptionStatus.h
+END
+ClientCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ClientCommon.h
+END
+ISteamUserStats007.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamUserStats007.h
+END
+Win32Library.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/Win32Library.h
+END
+ISteamGameServerItems003.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/ISteamGameServerItems003.h
+END
+GameServerStatsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/GameServerStatsCommon.h
+END
+IClientRemoteStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/IClientRemoteStorage.h
+END
+Interface_OSW.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/25/client/branches/10907-1-Working/osw/Interface_OSW.h
+END

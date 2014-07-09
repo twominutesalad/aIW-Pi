@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw
+END
+CGameID.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/CGameID.h
+END
+CSteamID.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/CSteamID.h
+END
+string_t.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/string_t.h
+END
+MatchmakingCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/MatchmakingCommon.h
+END
+SteamTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/SteamTypes.h
+END
+NetworkingCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/NetworkingCommon.h
+END
+FriendsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/FriendsCommon.h
+END
+ISteamRemoteStorage002.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ISteamRemoteStorage002.h
+END
+ESteamNotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ESteamNotify.h
+END
+ISteamClient008.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ISteamClient008.h
+END
+GameServerCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/GameServerCommon.h
+END
+ContentServerCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ContentServerCommon.h
+END
+ISteamMatchmaking007.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ISteamMatchmaking007.h
+END
+MasterServerUpdaterCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/MasterServerUpdaterCommon.h
+END
+ENotificationPosition.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ENotificationPosition.h
+END
+EPersonalQuestion.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/EPersonalQuestion.h
+END
+EChatMemberStateChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/EChatMemberStateChange.h
+END
+ISteamContentServer002.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ISteamContentServer002.h
+END
+ISteamUtils005.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ISteamUtils005.h
+END
+ESteamError.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ESteamError.h
+END
+RemoteStorageCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/RemoteStorageCommon.h
+END
+ISteamMasterServerUpdater001.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ISteamMasterServerUpdater001.h
+END
+ISteamGameServer009.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ISteamGameServer009.h
+END
+CCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/CCallback.h
+END
+EAccountType.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/EAccountType.h
+END
+ISteamUser012.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ISteamUser012.h
+END
+servernetadr.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/servernetadr.h
+END
+MatchMakingKeyValuePair.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/MatchMakingKeyValuePair.h
+END
+EUniverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/EUniverse.h
+END
+UserStatsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/UserStatsCommon.h
+END
+UtilsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/UtilsCommon.h
+END
+ISteamNetworking003.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ISteamNetworking003.h
+END
+FriendGameInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/FriendGameInfo.h
+END
+ELobbyType.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ELobbyType.h
+END
+gameserveritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/gameserveritem.h
+END
+EServerMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/EServerMode.h
+END
+ISteamFriends005.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ISteamFriends005.h
+END
+EResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/EResult.h
+END
+ISteamUserStats006.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ISteamUserStats006.h
+END
+ClientCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/ClientCommon.h
+END
+UserCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alteriwnet/!svn/ver/60/dediclient/branches/dependencies/include/osw/UserCommon.h
+END
